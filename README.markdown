@@ -1,6 +1,6 @@
 # Breast Cancer Diagnosis Classification
 
-This repository contains a machine learning project to classify breast tumors as malignant (1) or benign (0) using the Breast Cancer Wisconsin (Diagnostic) Dataset. The project involves data preprocessing, model training, and evaluation with a confusion matrix heatmap and classification report. It is part of my coursework at the National University of Modern Languages, Islamabad, submitted on October 31, 2024, under the supervision of Mam Iqra Nasem.
+This repository contains a machine learning project to classify breast tumors as malignant (1) or benign (0) using the Breast Cancer Wisconsin (Diagnostic) Dataset. The project involves data preprocessing, model training, and evaluation with a confusion matrix heatmap and classification report. 
 
 ## Project Overview
 
@@ -173,7 +173,6 @@ See the `deep-learning-labs` and `computer-vision-labs` repositories for details
 
 - **File Size**: Use Git LFS for large files like `data.csv` or images (e.g., `git lfs track "*.csv" "*.png"`).
 - **Dataset Availability**: Ensure `data.csv` is included or provide a link to the source in the README.
-- **Privacy**: If submitting for coursework, verify with your instructor (e.g., Mam Iqra Nasem) if public sharing is allowed.
 
 ## License
 
